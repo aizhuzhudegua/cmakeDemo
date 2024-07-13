@@ -1,0 +1,11 @@
+/home/wzk/cmake/demo1/build/CMakeFiles/edit_cache.dir
+/home/wzk/cmake/demo1/build/CMakeFiles/rebuild_cache.dir
+/home/wzk/cmake/demo1/build/calc/CMakeFiles/calc.dir
+/home/wzk/cmake/demo1/build/calc/CMakeFiles/edit_cache.dir
+/home/wzk/cmake/demo1/build/calc/CMakeFiles/rebuild_cache.dir
+/home/wzk/cmake/demo1/build/sort/CMakeFiles/sort.dir
+/home/wzk/cmake/demo1/build/sort/CMakeFiles/edit_cache.dir
+/home/wzk/cmake/demo1/build/sort/CMakeFiles/rebuild_cache.dir
+/home/wzk/cmake/demo1/build/test/CMakeFiles/test.dir
+/home/wzk/cmake/demo1/build/test/CMakeFiles/edit_cache.dir
+/home/wzk/cmake/demo1/build/test/CMakeFiles/rebuild_cache.dir

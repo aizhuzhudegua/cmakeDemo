@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test1.dir/main.cpp.o -o ../../bin/test1   -L/home/wzk/cmake/demo/lib  -Wl,-rpath,/home/wzk/cmake/demo/lib ../../lib/libcalc.a 

@@ -1,0 +1,3 @@
+/home/wzk/cmake/v4/build/CMakeFiles/app.dir
+/home/wzk/cmake/v4/build/CMakeFiles/edit_cache.dir
+/home/wzk/cmake/v4/build/CMakeFiles/rebuild_cache.dir
